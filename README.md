@@ -1,1 +1,1 @@
-# Word-Guess-Game
+# letter-guess-game
